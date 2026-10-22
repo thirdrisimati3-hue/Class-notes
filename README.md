@@ -1,2 +1,2 @@
 # Class-notes
-Ha written notes for SQL
+Hand written notes for SQL
